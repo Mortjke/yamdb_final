@@ -8,7 +8,7 @@ services:
     env_file:
       - ./.env
   web:
-    image: mortjke/yamdb_final_1:latest
+    image: mortjke/infra_sp2:latest
     restart: always
     volumes:
       - static_value:/app/static/
