@@ -1,3 +1,7 @@
+![example workflow](https://github.com/Mortjke/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+![example event parameter](https://github.com/Mortjke/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?event=push)
+![example branch parameter](https://github.com/Mortjke/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?branch=feature-1)
+
 # yamdb_final
 yamdb_final
 # yamdb_final
