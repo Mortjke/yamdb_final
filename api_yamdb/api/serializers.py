@@ -1,7 +1,6 @@
 from django.shortcuts import get_object_or_404
 from rest_framework import serializers
 from rest_framework.serializers import ValidationError
-
 from reviews.models import Category, Comment, CustomUser, Genre, Review, Title
 
 
