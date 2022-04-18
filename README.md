@@ -4,7 +4,7 @@
 
 # Проект: yamdb_final
 
-## Cсылка для ознакомления: http://rammyproject.ddns.net/api/v1//api/v1/
+## Cсылка для ознакомления: http://rammyproject.ddns.net/api/v1/
 
 ## Документация API-сервера: http://rammyproject.ddns.net/redoc/
 
