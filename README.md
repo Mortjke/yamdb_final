@@ -2,15 +2,15 @@
 ![example event parameter](https://github.com/Mortjke/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?event=push)
 ![example branch parameter](https://github.com/Mortjke/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?branch=feature-1)
 
-### Проект: yamdb_final
+# Проект: yamdb_final
 
 ## Cсылка для ознакомления: http://51.250.29.133/api/v1/
 
 ## Документация API-сервера: http://51.250.29.133/redoc/
 
-# Автор: Антон Лизнев
+### Автор: Антон Лизнев
 
-# Как развернуть проект локально:
+### Как развернуть проект локально:
 
 1. Склонируйте репозиторий - ```git clone```
 
